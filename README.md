@@ -1,4 +1,4 @@
-<div display=flex-direction>
+<div>
 <h3 align="center">A passionate Mobile developer from Indonesia </h3>
   <br></br>
 <img align="center" alt="coding"  width="700" height="400" src="https://media.tenor.com/0Dns0WCL0O4AAAAC/cyber.gif">
@@ -9,7 +9,7 @@
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://media.tenor.com/0Dns0WCL0O4AAAAC/cyber.gif" alt="android" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
