@@ -1,7 +1,8 @@
-<h3 align="center">A passionate Mobile developer from Indonesia 
+<h3 align="center">A passionate Mobile developer from Indonesia </h3>
   <br></br>
 <img align="center" alt="coding"  width="300"    
-height="400" src="https://media.tenor.com/0Dns0WCL0O4AAAAC/cyber.gif"></h3>
+height="400" src="https://media.tenor.com/0Dns0WCL0O4AAAAC/cyber.gif">
+
 
 
 
