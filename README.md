@@ -38,7 +38,7 @@ height="400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d
       <a href="https://code.visualstudio.com/ target="_blank" rel="Visual Studio Code"> 
     <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi69&show_icons=true&locale=en&layout=compact&theme=radical" alt="mahbubi69" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaralfatah&show_icons=true&locale=en&layout=compact&theme=radical" alt="amaralfatah" />
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&locale=en" alt="mahbubi69" /></p> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&theme=radical) -->
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&theme=radical"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical"/>
