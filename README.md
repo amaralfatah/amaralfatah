@@ -1,6 +1,7 @@
+<div display=flex-direction>
 <h3 align="center">A passionate Mobile developer from Indonesia </h3>
   <br></br>
-<img align="center" alt="coding"  width="700" height="400" margin=auto src="https://media.tenor.com/0Dns0WCL0O4AAAAC/cyber.gif">
+<img align="center" alt="coding"  width="700" height="400" src="https://media.tenor.com/0Dns0WCL0O4AAAAC/cyber.gif">
 
 
 
@@ -42,3 +43,4 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&locale=en" alt="amaralfatah" /></p> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical) -->
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical"/>
+</div>
