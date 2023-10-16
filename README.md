@@ -42,7 +42,7 @@
   <a href="https://www.javascript.com/ target="_blank" rel="Javascript"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="Javascript" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en target="_blank" rel="NodeJs"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NodeJs" height="40"/> </a>
+    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJs" height="40"/> </a>
   </p>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaralfatah&show_icons=true&locale=en&layout=compact&theme=radical" alt="amaralfatah" /> -->
