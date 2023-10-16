@@ -8,19 +8,19 @@
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="center">
-  //language
+  <!-- language -->
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="40" style="margin: 8px;" /></a>
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="javascript" height="40" style="margin: 8px;" />
   </a>
 
-  //framework
+  <!-- framework -->
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" height="40" style="margin: 8px;" />
   </a>
 
-  //database icon
+  <!-- database icon -->
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgre" height="40" style="margin: 8px;" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -29,7 +29,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40" style="margin: 8px;" />
   </a>
 
-  //tools
+  <!-- tools -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="40" style="margin: 8px;" />
   </a>
