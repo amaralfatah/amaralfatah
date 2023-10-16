@@ -38,8 +38,12 @@
       <a href="https://code.visualstudio.com/ target="_blank" rel="Visual Studio Code"> 
     <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaralfatah&show_icons=true&locale=en&layout=compact&theme=radical" alt="amaralfatah" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&locale=en" alt="amaralfatah" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical)
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical"/>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaralfatah&show_icons=true&locale=en&layout=compact&theme=radical" alt="amaralfatah" /> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&locale=en" alt="amaralfatah" /></p> -->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical) -->
+<!-- <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical"/> -->
 </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amaralfatah&show_icons=true&locale=en&layout=compact&theme=radical" alt="amaralfatah" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical" />
+</p>
