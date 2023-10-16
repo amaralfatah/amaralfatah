@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Amar Al Fatah</h1>
-  <h3>A passionate Mobile Developer from Indonesia</h3>
+  <h3>A passionate Mobile and Frontend Web Developer from Indonesia</h3>
   <br>
   <img src="https://media.tenor.com/0Dns0WCL0O4AAAAC/cyber.gif" alt="coding" width="500" height="300">
   <br><br>
