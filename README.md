@@ -6,7 +6,7 @@
   <br><br>
 
   <h2>Languages and Tools:</h2>
-  <p align="center"> 
+  <p align="center" margin=8px> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"  height="40"/> </a> 
   
