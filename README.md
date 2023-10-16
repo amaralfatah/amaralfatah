@@ -40,4 +40,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amaralfatah&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaralfatah&show_icons=true&locale=en&layout=compact&theme=radical" alt="amaralfatah" /> -->
+  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&locale=en" alt="amaralfatah" /></p> -->
+  <!-- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical) -->
+  <!-- <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical"/> -->
 </p>
