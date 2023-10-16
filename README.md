@@ -8,7 +8,7 @@
   <h2>Languages and Tools:</h2>
   <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"  height="40" style="margin: 8px;"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"  height="40" style="margin: 200px;"/> </a> 
   <!-- <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"  height="40"/> </a> -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
