@@ -19,6 +19,9 @@
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" height="40" style="margin: 8px;" />
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="40" style="margin: 8px;" />
+  </a>
 
   <!-- database icon -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
