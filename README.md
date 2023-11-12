@@ -22,6 +22,12 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="40" style="margin: 8px;" />
   </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" height="40" style="margin: 8px;" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png" alt="Flutter" height="40" style="margin: 8px;" />
+  </a>
 
   <!-- database icon -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
