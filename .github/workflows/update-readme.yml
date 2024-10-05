@@ -19,13 +19,13 @@ jobs:
       - name: Generate README.md
         uses: amaralfatah/profile-readme-stats@master   # Menggunakan fork dari akun Anda
         with:
-          token: ${{ secrets.USER_TOKEN }}
+          token: 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
 
       - name: Update README.md
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.USER_TOKEN }}@github.com/amaralfatah/amaralfatah.git
+          git remote set-url origin https://x-access-token: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@github.com/amaralfatah/amaralfatah.git
           git add .
           git commit -m "Update README"
-          git push https://x-access-token:${{ secrets.USER_TOKEN }}@github.com/amaralfatah/amaralfatah.git HEAD:main
+          git push https://x-access-token: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@github.com/amaralfatah/amaralfatah.git HEAD:main
