@@ -17,12 +17,6 @@ Here’s a snapshot of the languages I love to code with across my projects:
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-➡️ [more videos...](https://youtube.com/YOUR_CHANNEL_NAME) # Replace with your channel name
-
 🌱 **Every project is a new step in my learning journey.** I believe that each line of code has the potential to create something extraordinary. Thank you for visiting my profile, and feel free to explore my repositories!
 
 
