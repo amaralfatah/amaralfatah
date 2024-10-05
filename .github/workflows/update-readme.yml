@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate README.md
-        uses: amaralfatah/profile-readme-stats@main   # Menggunakan fork dari akun Anda
+        uses: amaralfatah/profile-readme-stats@master   # Menggunakan fork dari akun Anda
         with:
           token: ${{ secrets.USER_TOKEN }}
 
