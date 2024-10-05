@@ -1,27 +1,35 @@
+name: Update Profile Readme Stats
+
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours
+    - cron: '0 */12 * * *' # Runs every 12 hours
   push:
     branches:
       - master
+      - main
+
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-    - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v3
-      with:
-        token: ${{ secrets.USER_TOKEN }}
-    - name: Update README.md
-      run: |
-        if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git add .
-        git commit -m "Update README"
-        git push
-        fi
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Generate README.md
+        uses: teoxoy/profile-readme-stats@v3
+        with:
+          token: ${{ secrets.USER_TOKEN }} # Store your token in GitHub secrets
+          template: ./TEMPLATE.md # Optional, path to your custom template
+          readme: ./README.md # Path to the generated README file
+          includeForks: false # Set to true if you want to include forks
+
+      - name: Update README.md
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name github-actions[bot]
+            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+            git add .
+            git commit -m "Update README"
+            git push
+          fi
