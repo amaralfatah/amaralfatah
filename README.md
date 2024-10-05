@@ -1,3 +1,9 @@
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=amaralfatah&layout=compact&theme=radical)
+
 <h1 align="center">Amar Al Fatah</h1>
 <h3 align="center">Mobile and Frontend Web Developer from Indonesia</h3>
 

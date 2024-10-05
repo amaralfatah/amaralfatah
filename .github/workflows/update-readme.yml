@@ -1,0 +1,32 @@
+name: Update README
+
+on:
+  workflow_dispatch:   # Menjalankan workflow secara manual dari GitHub Actions tab
+  schedule:
+    - cron: '0 */12 * * *'   # Menjalankan workflow setiap 12 jam
+  push:
+    branches:
+      - master   # Menjalankan workflow saat ada push ke branch master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4   # Mengambil (checkout) seluruh repository
+        with:
+          fetch-depth: 0
+
+      - name: Generate README.md
+        uses: teoxoy/profile-readme-stats@v3   # Menggunakan action untuk menghasilkan README
+        with:
+          token: ${{ secrets.USER_TOKEN }}   # Token untuk mengakses API GitHub
+
+      - name: Update README.md
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name github-actions[bot]
+            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+            git add .
+            git commit -m "Update README"
+            git push
+          fi
