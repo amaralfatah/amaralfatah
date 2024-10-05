@@ -24,18 +24,12 @@ jobs:
           readme: ./README.md # Path to the generated README file
           includeForks: false # Set to true if you want to include forks
 
-      - name: Fetch Latest YouTube Videos
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC-lEiEdIfgkpqHDiLnb_pWA" # Replace with your channel ID
-
       - name: Update README.md
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
             git config user.name github-actions[bot]
             git config user.email 41898282+github-actions[bot]@users.noreply.github.com
             git add .
-            git commit -m "Update README with latest YouTube videos"
+            git commit -m "Update README"
             git push
           fi
