@@ -65,4 +65,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amaralfatah&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+
+  ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=amaralfatah)
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=amaralfatah&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=amaralfatah&color=blue&style=flat-square)
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=amaralfatah)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaralfatah&langs_count=8&hide=html,css)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&hide=issues,contribs&theme=radical)
+
 </p>
