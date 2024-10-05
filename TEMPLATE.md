@@ -3,8 +3,7 @@
 🌟 **Welcome to my profile!** I am an enthusiastic developer passionate about coding and innovation. Throughout my journey on GitHub, I have achieved:
 
 - **Account Age:** {{ ACCOUNT_AGE }} years
-- **Total Repositories:** {{ REPOSITORIES }} repositories filled with ideas
-- **Total Stars:** {{ STARS }} stars from an amazing community
+- **Total Repositories:** {{ REPOSITORIES }} repositories filled with ideas<!-- - **Total Stars:** 0 stars from an amazing community -->
 - **Total Commits:** {{ COMMITS }} commitments to making a difference
 - **Languages Used:**
 {{ LANGUAGE_TEMPLATE_START }}
