@@ -1,25 +1,25 @@
 name: Update README
 
 on:
-  workflow_dispatch:   # Menjalankan workflow secara manual dari GitHub Actions tab
+  workflow_dispatch:   # Menjalankan workflow secara manual
   schedule:
     - cron: '0 */12 * * *'   # Menjalankan workflow setiap 12 jam
   push:
     branches:
-      - master   # Menjalankan workflow saat ada push ke branch master
+      - master
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4   # Mengambil (checkout) seluruh repository
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Generate README.md
-        uses: teoxoy/profile-readme-stats@v3   # Menggunakan action untuk menghasilkan README
+        uses: teoxoy/profile-readme-stats@v3
         with:
-          token: ${{ secrets.USER_TOKEN }}   # Token untuk mengakses API GitHub
+          token: ${{ secrets.USER_TOKEN }}
 
       - name: Update README.md
         run: |

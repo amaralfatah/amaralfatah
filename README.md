@@ -1,8 +1,28 @@
+## Hello, I'm Amar Al Fatah!
+
+Joined GitHub **{{ ACCOUNT_AGE }}** years ago.
+
+Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+
+Most used languages across my projects:
+
+{{ LANGUAGE_TEMPLATE_START }}
+- **{{LANGUAGE_NAME}}**: {{LANGUAGE_PERCENT}}%
+{{ LANGUAGE_TEMPLATE_END }}
+
+<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
+
+
+
+
 ## GitHub Stats
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaralfatah&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=amaralfatah&layout=compact&theme=radical)
+
 
 <h1 align="center">Amar Al Fatah</h1>
 <h3 align="center">Mobile and Frontend Web Developer from Indonesia</h3>
