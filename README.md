@@ -3,9 +3,8 @@
 🌟 **Welcome to my profile!** I am an enthusiastic developer passionate about coding and innovation. Throughout my journey on GitHub, I have achieved:
 
 - **Account Age:** 3 years
-- **Total Repositories:** 27 repositories filled with ideas
-- **Total Stars:** 0 stars from an amazing community
-- **Total Commits:** 584 commitments to making a difference
+- **Total Repositories:** 27 repositories filled with ideas<!-- - **Total Stars:** 0 stars from an amazing community -->
+- **Total Commits:** 585 commitments to making a difference
 - **Languages Used:**
   - PHP: 32.9% ![##4F5D95](https://via.placeholder.com/15/#4F5D95) 
   - JavaScript: 30.1% ![##f1e05a](https://via.placeholder.com/15/#f1e05a) 
