@@ -1,4 +1,4 @@
-tess commit
+${{ secrets.USER_TOKEN }}
 
 ## Hello, I'm Amar Al Fatah!
 
