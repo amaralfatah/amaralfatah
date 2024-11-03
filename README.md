@@ -5,7 +5,7 @@ I joined GitHub **3** years ago, and it's been an incredible journey ever since!
 ## My Contributions
 In this time, I have:
 
-- Made **580** commits, showcasing my dedication to continuous improvement and learning.
+- Made **584** commits, showcasing my dedication to continuous improvement and learning.
 - Submitted **4** pull requests, collaborating with others to enhance projects and share knowledge.
 - Created **26** personal projects, each reflecting my creativity and problem-solving skills.
 - Contributed to **5** public repositories, giving back to the open-source community that has inspired me.
@@ -28,7 +28,7 @@ Here’s a snapshot of the languages I love to code with across my projects:
 <!-- 
 Joined Github **3** years ago.
 
-Since then, I have made 580 commits, submitted 4 pull requests, created 26 personal projects, and contributed to 5 public repositories.
+Since then, I have made 584 commits, submitted 4 pull requests, created 26 personal projects, and contributed to 5 public repositories.
 
 Most used languages across my projects:
 
@@ -43,5 +43,5 @@ Most used languages across my projects:
 -->
 
 <!-- 
-Since then I pushed **580** commits, opened **0** issues, submitted **4** pull requests, received **0** stars across **26** personal projects and contributed to **5** public repositories.
+Since then I pushed **584** commits, opened **0** issues, submitted **4** pull requests, received **0** stars across **26** personal projects and contributed to **5** public repositories.
 -->
