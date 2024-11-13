@@ -11,7 +11,7 @@ Throughout this incredible journey, I have:
 - Brought **27** personal projects to life, each serving as a testament to my creativity, problem-solving prowess, and passion for coding.
 - Contributed to **7** public repositories, giving back to the open-source community that has been a constant source of inspiration and support.
 
-## Languages of Choice 💻
+## Most Used Languages 💻
 
 Here's a glimpse into the languages that fuel my coding adventures across my projects:
 
