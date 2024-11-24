@@ -6,17 +6,17 @@ I embarked on my GitHub journey **3** years ago, and it has been an exhilarating
 
 Throughout this incredible journey, I have:
 
-- Crafted **611** commits, reflecting my unwavering commitment to continuous improvement and expanding my knowledge horizons.
+- Crafted **623** commits, reflecting my unwavering commitment to continuous improvement and expanding my knowledge horizons.
 - Collaborated with the vibrant GitHub community by submitting **4** pull requests, fostering a spirit of teamwork and collective growth.
-- Brought **31** personal projects to life, each serving as a testament to my creativity, problem-solving prowess, and passion for coding.
+- Brought **32** personal projects to life, each serving as a testament to my creativity, problem-solving prowess, and passion for coding.
 - Contributed to **8** public repositories, giving back to the open-source community that has been a constant source of inspiration and support.
 
 ## Most Used Languages 💻
 
 Here's a glimpse into the languages that fuel my coding adventures across my projects:
 
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B132.9%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B130.1%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B132.8%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B130%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B122.1%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B17.4%25)
 ![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B13.3%25)
@@ -42,12 +42,12 @@ Happy coding! 😊
 <!-- 
 Joined Github **3** years ago.
 
-Since then, I have made 611 commits, submitted 4 pull requests, created 31 personal projects, and contributed to 8 public repositories.
+Since then, I have made 623 commits, submitted 4 pull requests, created 32 personal projects, and contributed to 8 public repositories.
 
 Most used languages across my projects:
 
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B132.9%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B130.1%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B132.8%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B130%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B122.1%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B17.4%25)
 ![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B13.3%25)
@@ -57,5 +57,5 @@ Most used languages across my projects:
 -->
 
 <!-- 
-Since then I pushed **611** commits, opened **0** issues, submitted **4** pull requests, received **0** stars across **31** personal projects and contributed to **8** public repositories.
+Since then I pushed **623** commits, opened **0** issues, submitted **4** pull requests, received **0** stars across **32** personal projects and contributed to **8** public repositories.
 -->
