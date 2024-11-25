@@ -6,7 +6,7 @@ I embarked on my GitHub journey **3** years ago, and it has been an exhilarating
 
 Throughout this incredible journey, I have:
 
-- Crafted **627** commits, reflecting my unwavering commitment to continuous improvement and expanding my knowledge horizons.
+- Crafted **635** commits, reflecting my unwavering commitment to continuous improvement and expanding my knowledge horizons.
 - Collaborated with the vibrant GitHub community by submitting **4** pull requests, fostering a spirit of teamwork and collective growth.
 - Brought **32** personal projects to life, each serving as a testament to my creativity, problem-solving prowess, and passion for coding.
 - Contributed to **8** public repositories, giving back to the open-source community that has been a constant source of inspiration and support.
@@ -22,7 +22,7 @@ Here's a glimpse into the languages that fuel my coding adventures across my pro
 ![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B13.3%25)
 ![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B10.9%25)
 ![Dart](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300B4AB&message=Dart%EF%B8%B10.7%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.2%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.3%25)
 
 ## My Learning Philosophy 🌱
 
@@ -42,7 +42,7 @@ Happy coding! 😊
 <!-- 
 Joined Github **3** years ago.
 
-Since then, I have made 627 commits, submitted 4 pull requests, created 32 personal projects, and contributed to 8 public repositories.
+Since then, I have made 635 commits, submitted 4 pull requests, created 32 personal projects, and contributed to 8 public repositories.
 
 Most used languages across my projects:
 
@@ -53,9 +53,9 @@ Most used languages across my projects:
 ![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B13.3%25)
 ![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B10.9%25)
 ![Dart](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300B4AB&message=Dart%EF%B8%B10.7%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.2%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.3%25)
 -->
 
 <!-- 
-Since then I pushed **627** commits, opened **0** issues, submitted **4** pull requests, received **0** stars across **32** personal projects and contributed to **8** public repositories.
+Since then I pushed **635** commits, opened **0** issues, submitted **4** pull requests, received **0** stars across **32** personal projects and contributed to **8** public repositories.
 -->
