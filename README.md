@@ -1,20 +1,11 @@
-# Welcome to My GitHub Profile! 🚀
+Hi there 👋
+I've been coding on GitHub for 3 years, contributing 640 commits and 4 pull requests along the way.
+Projects & Contributions
 
-I embarked on my GitHub journey **3** years ago, and it has been an exhilarating ride filled with learning, growth, and innovation!
+36 personal repositories
+6 public repositories contributed to
 
-## My Contributions 📊
-
-Throughout this incredible journey, I have:
-
-- Crafted **630** commits, reflecting my unwavering commitment to continuous improvement and expanding my knowledge horizons.
-- Collaborated with the vibrant GitHub community by submitting **4** pull requests, fostering a spirit of teamwork and collective growth.
-- Brought **36** personal projects to life, each serving as a testament to my creativity, problem-solving prowess, and passion for coding.
-- Contributed to **6** public repositories, giving back to the open-source community that has been a constant source of inspiration and support.
-
-## Most Used Languages 💻
-
-Here's a glimpse into the languages that fuel my coding adventures across my projects:
-
+Languages
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B132.3%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B129.8%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B121.6%25)
@@ -23,28 +14,11 @@ Here's a glimpse into the languages that fuel my coding adventures across my pro
 ![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B11.2%25)
 ![Dart](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300B4AB&message=Dart%EF%B8%B10.8%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.4%25)
-
-## My Learning Philosophy 🌱
-
-I firmly believe that every project, no matter its scale, presents a valuable opportunity for growth and learning. Each line of code I write is a step towards unlocking new possibilities and pushing the boundaries of what's achievable.
-
-I embrace challenges as opportunities to expand my skill set, think creatively, and deliver innovative solutions that make a meaningful impact.
-
-## Let's Connect! 🤝
-
-Thank you for taking the time to explore my GitHub profile. I invite you to delve into my repositories, where you'll find a collection of projects that showcase my passion for coding and my commitment to excellence.
-
-Feel free to reach out to me if you have any questions, ideas, or exciting collaboration opportunities. Let's connect and create something extraordinary together!
-
-Happy coding! 😊
-
-
-<!-- 
+Connect
+Feel free to explore my repositories and reach out for collaboration!
+<!-- Variables backup
 Joined Github **3** years ago.
-
-Since then, I have made 630 commits, submitted 4 pull requests, created 36 personal projects, and contributed to 6 public repositories.
-
-Most used languages across my projects:
+640 commits, 4 pull requests, 36 personal projects, 6 public repositories.
 
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B132.3%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B129.8%25)
@@ -54,8 +28,6 @@ Most used languages across my projects:
 ![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B11.2%25)
 ![Dart](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300B4AB&message=Dart%EF%B8%B10.8%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.4%25)
--->
 
-<!-- 
-Since then I pushed **630** commits, opened **0** issues, submitted **4** pull requests, received **0** stars across **36** personal projects and contributed to **6** public repositories.
+640 commits, 0 issues, 4 pull requests, 0 stars, 36 projects, 6 contributions
 -->
