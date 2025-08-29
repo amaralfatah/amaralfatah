@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm a developer who joined GitHub `4` years ago. Through this journey, I've made `1093` commits, created `52` projects, and contributed to `5` public repositories with `4` pull requests.
+I'm a developer who joined GitHub `4` years ago. Through this journey, I've made `1093` commits, created `52` projects, and contributed to `4` public repositories with `4` pull requests.
 
 ## Languages & Tools
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B136.6%25)
@@ -19,4 +19,4 @@ I believe in continuous learning and welcome collaboration opportunities. Feel f
 [//]: # (1093 commits)
 [//]: # (4 pull requests)
 [//]: # (52 personal projects)
-[//]: # (5 public repositories)
+[//]: # (4 public repositories)
