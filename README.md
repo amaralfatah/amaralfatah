@@ -1,16 +1,16 @@
 # Hello! 👋
 
-I'm a developer who joined GitHub `4` years ago. Through this journey, I've made `1093` commits, created `52` projects, and contributed to `3` public repositories with `4` pull requests.
+I'm a developer who joined GitHub `4` years ago. Through this journey, I've made `1093` commits, created `57` projects, and contributed to `3` public repositories with `4` pull requests.
 
 ## Languages & Tools
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B136.6%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B116.7%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B114.7%25)
-![PLpgSQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23336790&message=PLpgSQL%EF%B8%B112.7%25)
-![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B18.3%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B136.1%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B116.6%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B114.2%25)
+![PLpgSQL](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23336790&message=PLpgSQL%EF%B8%B112.3%25)
+![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B19%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B14.7%25)
-![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B12.6%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.4%25)
+![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B12.5%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.3%25)
 
 I believe in continuous learning and welcome collaboration opportunities. Feel free to explore my repositories or reach out to connect!
 
@@ -18,5 +18,5 @@ I believe in continuous learning and welcome collaboration opportunities. Feel f
 [//]: # (Joined Github 4 years ago.)
 [//]: # (1093 commits)
 [//]: # (4 pull requests)
-[//]: # (52 personal projects)
+[//]: # (57 personal projects)
 [//]: # (3 public repositories)
